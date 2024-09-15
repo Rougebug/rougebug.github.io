@@ -71,7 +71,7 @@ body > main  article {
 
 
 body > footer {
-    background-color: orange;
+    background-color: rgb(229, 114, 114);
     display: flex;
 }
 
